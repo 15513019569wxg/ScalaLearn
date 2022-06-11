@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eae6dbcf-d387-4812-992d-86c2cb3b44e8" name="hadoop102:22" url="http://hadoop102:22">
+        <fileTransfer accessType="SFTP" host="hadoop104" port="22" sshConfigId="7a2bfa12-3982-4293-b7be-6d0966708287" sshConfig="wxg@hadoop104:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" maxConnections="100" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3cbddb9b-f2ad-454a-8ab3-3ebfdb279573" name="hadoop103:22" url="http://hadoop103:22">
+        <fileTransfer accessType="SFTP" host="hadoop103" port="22" sshConfigId="82c83fb0-76f3-4c6d-9465-37090a4e1077" sshConfig="wxg@hadoop103:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" maxConnections="100" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2f589c89-e820-458b-a5ba-5e226c97b55e" name="hadoop104:22" url="http://hadoop104:22">
+        <fileTransfer accessType="SFTP" host="hadoop104" port="22" sshConfigId="7a2bfa12-3982-4293-b7be-6d0966708287" sshConfig="wxg@hadoop104:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" maxConnections="100" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

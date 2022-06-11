@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala.iml" filepath="$PROJECT_DIR$/.idea/modules/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/函数式编程/函数式编程.iml" filepath="$PROJECT_DIR$/函数式编程/函数式编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/变量和数据结构/变量和数据结构.iml" filepath="$PROJECT_DIR$/变量和数据结构/变量和数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常/异常.iml" filepath="$PROJECT_DIR$/异常/异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/模式匹配/模式匹配.iml" filepath="$PROJECT_DIR$/模式匹配/模式匹配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型/泛型.iml" filepath="$PROJECT_DIR$/泛型/泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/流程控制/流程控制.iml" filepath="$PROJECT_DIR$/流程控制/流程控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/运算符/运算符.iml" filepath="$PROJECT_DIR$/运算符/运算符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/隐式转换/隐式转换.iml" filepath="$PROJECT_DIR$/隐式转换/隐式转换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/集合.iml" filepath="$PROJECT_DIR$/集合/集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面向对象/面向对象.iml" filepath="$PROJECT_DIR$/面向对象/面向对象.iml" />
+    </modules>
+  </component>
+</project>
